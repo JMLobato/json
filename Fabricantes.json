@@ -1,0 +1,1245 @@
+[
+	{
+		"id": 118,
+		"name": "ActividadesSubactividades",
+		"url": "/archives/118/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 119,
+		"name": "AgregacionesValidas",
+		"url": "/archives/119/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 120,
+		"name": "CNAEValidos",
+		"url": "/archives/120/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 121,
+		"name": "Comercializadores",
+		"url": "/archives/121/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 122,
+		"name": "Concentradores",
+		"url": "/archives/122/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 142,
+		"name": "ConsumidoresDirectos",
+		"url": "/archives/142/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 123,
+		"name": "DiscriminacionHoraria",
+		"url": "/archives/123/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 124,
+		"name": "Distribuidores",
+		"url": "/archives/124/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 125,
+		"name": "Fabricantes",
+		"url": "/archives/125/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 15,
+		"name": "hemeroteca_DD_ent",
+		"url": "/archives/15/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			},
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 168,
+				"name": "General",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "zip",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2017-11-28"
+		]
+	},
+	{
+		"id": 16,
+		"name": "hemeroteca_DD_sal",
+		"url": "/archives/16/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			},
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 168,
+				"name": "General",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "zip",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2017-11-28"
+		]
+	},
+	{
+		"id": 32,
+		"name": "I3DIA",
+		"url": "/archives/32/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			},
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 168,
+				"name": "General",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "zip",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-22"
+		]
+	},
+	{
+		"id": 34,
+		"name": "I90DIA",
+		"url": "/archives/34/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			},
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 168,
+				"name": "General",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "zip",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2017-11-28"
+		]
+	},
+	{
+		"id": 105,
+		"name": "Indisponibilidades",
+		"url": "/archives/105/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 188,
+				"name": "Indisponibilidades",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xls",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-25"
+		]
+	},
+	{
+		"id": 17,
+		"name": "liquicierre",
+		"url": "/archives/17/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 166,
+				"name": "Regulación Secundaria",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2017-11-28"
+		]
+	},
+	{
+		"id": 126,
+		"name": "Magnitudes",
+		"url": "/archives/126/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 127,
+		"name": "ModeloContadores",
+		"url": "/archives/127/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 128,
+		"name": "ModeloRegistradores",
+		"url": "/archives/128/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 129,
+		"name": "ModeloTransformadores",
+		"url": "/archives/129/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 143,
+		"name": "MotivosObjecionEdLD",
+		"url": "/archives/143/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 144,
+		"name": "MotivosObjecionEdLOS",
+		"url": "/archives/144/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 130,
+		"name": "NivelesTension",
+		"url": "/archives/130/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 107,
+		"name": "p48cierre",
+		"url": "/archives/107/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 176,
+				"name": "Programas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-25",
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 131,
+		"name": "Provincias",
+		"url": "/archives/131/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 108,
+		"name": "REE_AggregatedGenOutput",
+		"url": "/archives/108/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 168,
+				"name": "General",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-25",
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 132,
+		"name": "Representantes",
+		"url": "/archives/132/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 133,
+		"name": "Subsistemas",
+		"url": "/archives/133/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 135,
+		"name": "TarifaAcceso",
+		"url": "/archives/135/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 24,
+		"name": "totalasigter",
+		"url": "/archives/24/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 178,
+				"name": "Regulación Terciaria",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 25,
+		"name": "totalenersec",
+		"url": "/archives/25/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 166,
+				"name": "Regulación Secundaria",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-25"
+		]
+	},
+	{
+		"id": 26,
+		"name": "totalliquicierre",
+		"url": "/archives/26/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 166,
+				"name": "Regulación Secundaria",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-25"
+		]
+	},
+	{
+		"id": 29,
+		"name": "totalp48",
+		"url": "/archives/29/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 176,
+				"name": "Programas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 30,
+		"name": "totalp48cierre",
+		"url": "/archives/30/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 176,
+				"name": "Programas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-25"
+		]
+	},
+	{
+		"id": 27,
+		"name": "totalrp48prec",
+		"url": "/archives/27/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 180,
+				"name": "Restricciones",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 28,
+		"name": "totalrp48preccierre",
+		"url": "/archives/28/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 180,
+				"name": "Restricciones",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-25"
+		]
+	},
+	{
+		"id": 22,
+		"name": "totalrpibcirest",
+		"url": "/archives/22/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 156,
+				"name": "Mercados y precios",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 180,
+				"name": "Restricciones",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "xml",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	},
+	{
+		"id": 134,
+		"name": "ZonasGeograficas",
+		"url": "/archives/134/download?date_type=publicacion&end_date=2018-02-26T23%3A59%3A59%2B00%3A00&locale=es&start_date=2018-02-26T00%3A00%3A00%2B00%3A00",
+		"scopes": [
+			{
+				"id_taxonomy_term": 155,
+				"name": "Generación y consumo",
+				"vocabulary_id": 20
+			}
+		],
+		"areas": [
+			{
+				"id_taxonomy_term": 173,
+				"name": "Medidas",
+				"vocabulary_id": 22
+			}
+		],
+		"subjects": [
+			{
+				"id_taxonomy_term": 165,
+				"name": "Descargas",
+				"vocabulary_id": 21
+			}
+		],
+		"type": "pdf",
+		"publicationDate": [
+			"2018-02-26"
+		],
+		"date": [
+			"2018-02-26"
+		]
+	}
+]
