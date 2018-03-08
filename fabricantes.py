@@ -16,3 +16,9 @@ for fechi in datos:
 	if str(fechi["date"][0])==str(fecha):
 		print(fechi["name"])
 print()
+#4º Apartado
+Area=input("Introduce un area: ")
+for areas in datos:
+	for area in areas["areas"]:
+		if area["name"].upper() == Area.upper():
+			print(areas["name"])
