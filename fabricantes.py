@@ -22,3 +22,10 @@ for areas in datos:
 	for area in areas["areas"]:
 		if area["name"].upper() == Area.upper():
 			print(areas["name"])
+#5º Apartado
+fecha=input("Introduce una fecha separada por guiones y empezando por el año: ")
+fichero = open("urls.txt","w")
+for fechi in datos:
+	if str(fechi["date"][0])==str(fecha):
+		json.dump(fechi["url"],fichero)
+fichero.close()
